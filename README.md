@@ -24,6 +24,7 @@ A Mechanical Engineering graduate from **RV College of Engineering**, Bangalore,
 **Frameworks & Libraries**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 **Tools & Platforms**  
 MATLAB & Simulink, SolidWorks, ANSYS, Catia, Siemens NX, PyBullet, OpenAI Gym, ROS/ROS2
 
@@ -51,16 +52,7 @@ MATLAB & Simulink, SolidWorks, ANSYS, Catia, Siemens NX, PyBullet, OpenAI Gym, R
 #### 🛠 Hardware & Systems
 
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)  
-Franka Emika | MiniSegway | Petoi Bittle | Robotic Needle Placement (Custom setup)
-
----
-
-#### 🏆 Achievements
-
-- 🥈 *2nd Prize* – RANGATHARANGA State Drama Fest (2018)  
-- 🧠 *Top Ranker* – Bremen Big Data Challenge 2024  
-- 📜 Certified SolidWorks Associate by Dassault Systèmes  
-- 👨‍🏫 Tutor – Control Systems at TUHH (2023)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
 
 ---
 
